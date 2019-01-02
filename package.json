@@ -1,5 +1,7 @@
 {
   "name": "photo_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "curl": "^0.1.4"
+  }
 }
